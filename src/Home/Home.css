@@ -1,0 +1,21 @@
+.bus-img
+{
+    height: 600px;
+    width: 400px;
+}
+
+.bus-img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+marquee{
+    position: relative;
+    left: 10%;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,20 @@
+.register
+{
+    height: 89vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+} 
+
+.register form{
+    border: 2px solid black !important; 
+    padding: 50px;
+    border-radius:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}

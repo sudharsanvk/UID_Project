@@ -1,0 +1,44 @@
+.card{
+    display: flex;
+    min-width: 250px;
+    max-width: 290px;
+    justify-content: center;
+    align-items: center !important;
+    border:none !important;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.card .btn{
+    margin-left: 30%;
+}
+
+.card-img-top{
+    width: 200px;
+}
+
+.search-add{
+    display: flex;
+    height: 100px;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-add input{
+    width: 90%;
+}
+
+.card-img-top img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-group{
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.drop{
+    width: 50%;
+}

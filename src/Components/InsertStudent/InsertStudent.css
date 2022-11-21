@@ -1,0 +1,14 @@
+.form-body form{
+    /* display: f; */
+    width: 400px !important;
+}
+
+.form-body{
+    display: flex;
+    justify-content: center;
+    height: 88vh !important;
+    align-items: center;
+    gap: 50px;
+    flex-direction: column;
+}
+

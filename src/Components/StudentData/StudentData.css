@@ -1,0 +1,32 @@
+.stud-data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     height: 88vh;
+
+}
+
+.container{
+     /* height: 88vh; */
+    /*width: 100vw; */
+}
+
+.content{
+    /* width: 50%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: justify;
+    /* transform: scale(1.5); */
+    padding: 30px;
+}
+
+.content .btn{
+    width: 100px;
+    /* margin-left: 30px; */
+}
+
+.detail{
+    font-size: larger;
+    font-weight: bolder;
+}
